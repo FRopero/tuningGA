@@ -2,7 +2,7 @@
 This repository contains the results for the tuning process of a genetic algorithm solving the classic TSP.
 
 ## Results Directory
-The results of the algorithm are in the directory: TERRA Results/
+The results of the algorithm are in the directory: TERRA Results\
   - irace.Rdata: database in R format with every data of the tunning process.
   - convergenceGraph.fig: figure in matlab with the convergence graph of the experiment. It can be replicated using the convergenceGraph.m script located at the root directory.
   - convergenceGraph.PNG: the convergence graph in .PNG format.
@@ -18,5 +18,5 @@ The results of the algorithm are in the directory: TERRA Results/
 $ cd ~\tuningGA
 $ irace -- scenario scenario.txt
 ```
- 
+ The results are located in ~\tuningGA\GA_Arena.
  
