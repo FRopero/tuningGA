@@ -1,12 +1,6 @@
 # Tunning Procedure For a Genetic Algorithm solving the TSP
 This repository contains the results for the tuning process of a genetic algorithm solving the classic TSP.
 
-## Tunning Process Results
-
-![Graph](https://github.com/FRopero/tuningGA/TERRA\&Results/convergenceGraph.PNG)
-
-![Graph2](https://github.com/FRopero/tuningGA/TERRA\&Results/boxplotGA.PNG)
-
 ## Results Directory
 The results of the algorithm are in the directory: TERRA Results\
   - irace.Rdata: database in R format with every data of the tunning process.
